@@ -60,4 +60,5 @@ serious impacts on the environment due to the extensive use of chemicals and pes
 that are used in random quantities; also, the production process is affected.
 
 Link to My Code - [Plant Health Checker](https://www.kaggle.com/code/anishghorai/final-year-project)
+
 Dataset Used - [PlantVillage](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
